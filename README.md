@@ -7,7 +7,7 @@ Create a RESTful API User Authentication Server Using the MEAN Stack
 
 ## Installation
 
-- Clone the repo: `https://github.com/mayurgodhanii/mean-rest-api.git`
+- Clone the repo: `git clone https://github.com/mayurgodhanii/mean-rest-api.git`
 - Install dependencies: `npm install`
 - Start the server: `node server.js`
 
