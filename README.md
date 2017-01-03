@@ -14,8 +14,8 @@ Create a RESTful API User Authentication Server Using the MEAN Stack
 ## Testing the API
 Test your API using [Postman](https://chrome.google.com/webstore/detail/postman-rest-client-packa/fhbjgbiflinjbdggehcddcbncdddomop)
 
-## Postman Collection list
-https://www.getpostman.com/collections/d2a6ea31e7eb0f0561a9
+## Postman Collection
+Download [Postman Collection](https://www.getpostman.com/collections/d2a6ea31e7eb0f0561a9)
 
 ## Rest API List
 
